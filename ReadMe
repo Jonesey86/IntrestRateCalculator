@@ -19,12 +19,12 @@ Language: Java Script, HTML, CSS.
 
 How to run the Intrest Rate Calculator 
 
-1. Clone repository : https://github.com/Jonesey86/StopWatch
+1. Clone repository : https://github.com/Jonesey86/IntrestRateCalculator
 
-2. Open Open the solution file (`StopWatch.sln`) in Visual Studio Code.
+2. Open Open the solution file (`IntrestRateCalculator.sln`) in Visual Studio Code.
 
 3. Rebuild solution.
 
-4. Run the StopWatch.
+4. Run the Intrest Rate Calculator.
 
-* Ive also added a StopWatch.png so you can see the overview and options available to the user.
+* Ive also added a IntrestRateCalculator.png so you can see the overview and options available to the user.
