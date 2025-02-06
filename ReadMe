@@ -1,1 +1,30 @@
+Intrest Rate Calculator 
 
+*A simple Intrest Rate Calculator made using Visual Studio Code. 
+
+*This project shows basic development principles, 
+
+
+Features
+
+*One user friendly
+
+*Input functionality allows the user to test the calculator.
+
+Tech used
+
+Language: Java Script, HTML, CSS.
+
+
+
+How to run the Intrest Rate Calculator 
+
+1. Clone repository : https://github.com/Jonesey86/StopWatch
+
+2. Open Open the solution file (`StopWatch.sln`) in Visual Studio Code.
+
+3. Rebuild solution.
+
+4. Run the StopWatch.
+
+* Ive also added a StopWatch.png so you can see the overview and options available to the user.
