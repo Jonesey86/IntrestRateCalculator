@@ -1,6 +1,6 @@
-Intrest Rate Calculator 
+Interest Rate Calculator 
 
-*A simple Intrest Rate Calculator made using Visual Studio Code. 
+*A simple Interest Rate Calculator made using Visual Studio Code. 
 
 *This project shows basic development principles, 
 
@@ -17,14 +17,14 @@ Language: Java Script, HTML, CSS.
 
 
 
-How to run the Intrest Rate Calculator 
+How to run the Interest Rate Calculator 
 
-1. Clone repository : https://github.com/Jonesey86/IntrestRateCalculator
+1. Clone repository : https://github.com/Jonesey86/InterestRateCalculator
 
-2. Open Open the solution file (`IntrestRateCalculator.sln`) in Visual Studio Code.
+2. Open Open the solution file (`InterestRateCalculator.sln`) in Visual Studio Code.
 
 3. Rebuild solution.
 
-4. Run the Intrest Rate Calculator.
+4. Run the Interest Rate Calculator.
 
-* Ive also added a IntrestRateCalculator.png so you can see the overview and options available to the user.
+* Ive also added a InterestRateCalculator.png so you can see the overview and options available to the user.
