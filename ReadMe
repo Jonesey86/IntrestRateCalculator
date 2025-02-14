@@ -4,7 +4,7 @@
 
 * This project shows basic development principles.
 
-* User can work out from input how much intrest rate /loan will be over x amount of year's.
+* User can work out from input how much intrest rate /loan will be over 'x' amount of year's.
 
 
 Features 📚
@@ -14,8 +14,8 @@ Features 📚
 * Input functionality allows the user to test the calculator.
 
 📚 Tech used 📚
-
-Language: Java Script, HTML, CSS.
+* I used Visual Studio Code to make this project.
+* Language: Java Script, HTML, CSS.
 
 
 
